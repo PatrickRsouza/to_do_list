@@ -32,7 +32,10 @@ const Form = styled.form`
 `
 const Input = styled.input`
     background: transparent;
-   
+    font-size: 30px;
+    width: 290px;
+    heigh: 30px;
+    reside: none;
 `
 
 function Tudo() {
