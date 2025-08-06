@@ -10,6 +10,7 @@ const GlobalStyle = createGlobalStyle`
     paddin: 0;
     border: none;
     box-sizing: border-box;
+    font-family: "JetBrains Mono", monospace;
     }
 
   body {
